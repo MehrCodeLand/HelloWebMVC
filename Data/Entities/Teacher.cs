@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Data.Entities
 {
-    public class Teacher
+    public class Teacher 
     {
         [Key]
         public int TeacherId { get; set; }
